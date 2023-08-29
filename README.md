@@ -1,0 +1,4 @@
+ - 👋 Hi, I’m @TheNestingDev, but you can call me Jack.
+ - 👀 I'm interested in coding, particularly in Python and Java, as well as exploring the furry community and diving into compelling stories like Naruto and Overlord.
+ - 🌱 I’m currently honing my coding skills and striving for personal growth both in fitness and mental well-being.
+ - 💞️ I'm open to collaborating on projects that involve innovative coding solutions or that could benefit from the vibrant storytelling and artistic elements I bring from my interests.
